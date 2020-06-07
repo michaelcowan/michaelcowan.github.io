@@ -6,6 +6,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "github-pages","~> 206"
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-admin', "~> 0.10.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
