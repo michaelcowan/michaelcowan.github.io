@@ -9,3 +9,5 @@ github_username:  michaelcowan
 theme: minima
 plugins:
   - jekyll-feed
+
+permalink: /:title:output_ext
