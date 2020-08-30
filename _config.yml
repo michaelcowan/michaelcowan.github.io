@@ -1,10 +1,11 @@
-title: Personal Blog of Michael Cowan
-email: mike@mcowan.io
+title: blog.mcowan.io
+author: Michael Cowan
+email: contact@mcowan.io
 description: >-
-  
+
 baseurl: ""
 url: "https://blog.mcowan.io"
-github_username:  michaelcowan
+github_username: michaelcowan
 
 remote_theme: songzivong/dark-minima
 
