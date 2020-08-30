@@ -1,0 +1,16 @@
+title: blog.mcowan.io
+author: Michael Cowan
+email: contact@mcowan.io
+description: >-
+
+baseurl: ""
+url: "https://blog.mcowan.io"
+github_username: michaelcowan
+
+remote_theme: songzivong/dark-minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+permalink: /:title:output_ext
