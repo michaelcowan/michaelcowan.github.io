@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
-  gem "github-pages","~> 206"
+  gem "github-pages","~> 207"
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-admin', "~> 0.10.1"
 end
