@@ -6,8 +6,10 @@ baseurl: ""
 url: "https://blog.mcowan.io"
 github_username:  michaelcowan
 
-theme: minima
+remote_theme: songzivong/dark-minima
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 permalink: /:title:output_ext

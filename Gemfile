@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # This is the default theme for new Jekyll sites. 
-gem "minima", "~> 2.5"
+gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   gem "github-pages","~> 206"
